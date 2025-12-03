@@ -1,11 +1,6 @@
 import copy # Library for deep copy of objects
 import time # Library for measuring time
 
-# WORK TEAM:
-# 1. KARAKOSTAS DIMITRIS - 23390077
-# 2. CHEIMONIDI ARTEMIS - 23390061
-# 3. TSATSANIAS EPAMEINONDAS - 23390069
-
 # PROBLEM WORLD
 # [Robot Position, Trash Tile 1, Trash Tile 2, ..., Trash Tile 8, Base Position, Robot Load]
 # Indices: 0 is Robot Pos, 1-8 are Tiles, 9 is Base Pos, 10 is Robot Load
